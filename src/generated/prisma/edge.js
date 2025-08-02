@@ -742,7 +742,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/romeusclarens/Desktop/Programing/Expo/churchProject_backend/src/generated/prisma",
+      "value": "/Users/desrameauxjodelin/Documents/ujecc_backend/src/generated/prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -751,12 +751,12 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "darwin",
+        "value": "darwin-arm64",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/Users/romeusclarens/Desktop/Programing/Expo/churchProject_backend/prisma/schema.prisma",
+    "sourceFilePath": "/Users/desrameauxjodelin/Documents/ujecc_backend/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
